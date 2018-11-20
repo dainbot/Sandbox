@@ -6,7 +6,7 @@ name = input("Enter name:- ")
 while len(name)<=0:
     print("Name is blank, enter again ")
     name=input("Enter name:- ")
-#pritn odd character in the name
+#print odd character in the name
 print(name[::2])
 #print odd characters in the name
 for i in range(0,len(name),2):
