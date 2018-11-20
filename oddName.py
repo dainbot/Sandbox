@@ -11,3 +11,4 @@ print(name[::2])
 #print odd characters in the name
 for i in range(0,len(name),2):
     print(name[i])
+    #hi
